@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23ER5nNcZSfOJ2mKgg6KrBhzyQ51OuQ6OfR1/5gukxXmKnK6BKojgl+UTc2EOYF4K3a5jchF3Slm6BK7cd1opQ==",
+  "dgSpecHash": "xzOpsBnDkqmrGPKkVF+clIX0Xpa6r+epy0qUA4X0unw8taW8tm4/hPU0ajT8I5mL57fG7ZpAQ8o51jAxZew75g==",
   "success": true,
-  "projectFilePath": "C:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
+  "projectFilePath": "c:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

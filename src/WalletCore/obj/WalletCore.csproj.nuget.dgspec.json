@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj": {}
+    "c:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj": {}
   },
   "projects": {
-    "C:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj": {
+    "c:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
+        "projectUniqueName": "c:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
         "projectName": "WalletCore",
-        "projectPath": "C:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
+        "projectPath": "c:\\projects\\fullcycle\\src\\WalletCore\\WalletCore.csproj",
         "packagesPath": "C:\\Users\\guilherme.a.schafer\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\fullcycle\\src\\WalletCore\\obj\\",
+        "outputPath": "c:\\projects\\fullcycle\\src\\WalletCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilherme.a.schafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
