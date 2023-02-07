@@ -1,6 +1,6 @@
 public class BaseEntity
 {
-    public Guid Id;
+    public Guid Id { get; private set; }
     public DateTime CreateAt { get; set; }
     public DateTime UpdateAt { get; set; }
     public BaseEntity()
@@ -10,6 +10,6 @@ public class BaseEntity
         UpdateAt = DateTime.Now;
     }
 
-    public virtual void Validate() {}
-    
+    public virtual void Validate() { }
+
 }

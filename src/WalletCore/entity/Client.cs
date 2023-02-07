@@ -5,6 +5,7 @@ public class Client : BaseEntity
     public string Name { get; set; }
     public string Email { get; set; }
     public ICollection<Account> Accounts { get; set; }
+
     public Client(string name, string email)
     {
         Name = name;
@@ -32,7 +33,7 @@ public class Client : BaseEntity
 
     public Client AddAccount(Account account)
     {
-        if(account.Client.Id != Id)
+        if (account.Client.Id != Id)
             throw new Exception("Account doesn't belong to client");
 
         Accounts.Add(account);

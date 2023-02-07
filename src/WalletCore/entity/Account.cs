@@ -1,12 +1,9 @@
 namespace WalletCore.entity;
 
-public class Account
+public class Account: BaseEntity
 {
-    public Guid Id { get; set; }
     public Client Client { get; set; }
     public decimal Balance { get; set; }
-    public DateTime CreateAt { get; set; }
-    public DateTime UpdateAt { get; set; }
 
     public Account(Client client)
     {
